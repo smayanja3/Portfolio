@@ -1,0 +1,148 @@
+*{
+    box-sizing: border-box;
+    /* padding:0; */
+    margin:0;
+}
+
+nav{
+    background:black;
+    color:white;
+    padding:20px; 
+}
+
+nav > h2 > span{
+    color:rgb(200, 32, 32);
+} 
+
+li > a{
+    color:white;
+}
+
+.burger{
+    display: none;
+}
+
+h2, ul, li{ 
+    display:inline
+  
+}
+
+ul{
+  position: absolute;
+  right: 0px; 
+  width: 250px;
+  
+}
+
+li a{
+    text-decoration: none;
+}
+#header1{
+    background:rgb(200, 32, 32);
+    color:white;
+    text-align:center;
+    padding: 50px 0;
+}
+
+p.book{
+    margin-top:35px;
+}
+
+#header1 > p > a{
+    padding:5px;
+    background: black;
+    color:white;
+    margin-top: 300px;
+    border:2px black solid;
+}
+
+#menu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 200px;
+    
+}
+
+table{
+    border-top:4px rgb(200, 32, 32)solid;
+    align-items: center;
+    width:100%;
+
+}
+
+.price{
+    text-align: right;
+} 
+
+#menu h3{
+    display:inline-block;
+    justify-content: flex-start;
+}
+
+img{
+    height:300px;
+    width:400px;
+}
+
+.container{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    gap:12px;
+    border-top:4px rgb(200, 32, 32)solid;
+    padding: 20px 0;
+}
+
+#about{
+    margin: 40px 200px;
+    
+}
+
+figcaption{
+    text-align: center;
+}
+footer{
+    background: black;
+    color:white;
+    text-align: center;
+    padding:70px 0;
+    margin-bottom:0;
+}
+
+footer a{
+    color:white;
+    padding-bottom: 10px;
+} 
+
+@media (max-width: 930px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 12px;
+        border-top: 4px rgb(200, 32, 32) solid;
+        padding: 20px 0;
+    }
+    #about {
+        margin: 40px 80px;
+    }
+    #menu {
+        margin: 40px 80px;
+    }
+  
+}
+@media (max-width: 600px) {
+    li > a{
+        display: none;
+
+    }
+    
+    img {
+        height: 170px;
+        width: 250px;
+    }
+}

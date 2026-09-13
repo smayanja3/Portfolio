@@ -15,8 +15,8 @@ Welcome to the source code for my personal portfolio website! This site showcase
 
 ## 🚀 Live Demo
 
-Check out the live portfolio here:  
-👉 [View Portfolio](https://portfoliomayanja.netlify.app/) *(Update with your actual Netlify link)*
+Check out My Portfolio here:
+👉 [View Portfolio](https://portfoliomayanja.netlify.app/) 
 
 ## 🏃🏾‍♀️ Running Locally
 

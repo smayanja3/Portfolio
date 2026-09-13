@@ -1,4 +1,4 @@
-# 💻 Swabira Mayanja — Portfolio
+# 💻 Portfolio
 
 Welcome to the source code for my personal portfolio website! This site showcases my background as a software engineer and web developer, highlighting my projects, technical skills, and professional experience.
 

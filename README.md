@@ -1,6 +1,15 @@
 # 💻 Portfolio
 
-Welcome to the source code for my personal portfolio website! This site showcases my background as a software engineer and web developer, highlighting my projects, technical skills, and professional experience.
+Welcome to the code repository for my personal portfolio website! Built with clean code and lots of coffee, this site showcases my skills in web development, software engineering, and my love for running and stationery.
+
+![Coding GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQxOXltOXE4M2twNG5wdnd2c3lmb2UwdWZxcmY3bXNocnh5bWJ1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lxsQ9dLbw1kTSVS9rt/giphy.gif)
+
+## 💡 About the Project
+
+This portfolio is designed to be a dynamic reflection of my professional journey. It highlights:
+*   **My Projects:** From interactive web apps to pixel-perfect client sites.
+*   **My Tech Stack:** The tools and languages I use every day.
+*   **A Little Fun:** Because developers who run (and love cute notebooks) code better.
 
 ## ✨ Features
 

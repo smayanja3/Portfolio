@@ -23,4 +23,4 @@ The code for my personal portfolio website. Built with clean code and lots of co
 
 ## 🚀 Live Demo
 
-👉 [View my portfolio](https://portfoliomayanja.netlify.app/)
+👉 [View my portfolio](https://swabira-mayanja.vercel.app/)
